@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **full‑stack web applications** with Django Rest Framework + React TS + Tailwind.
+- 🔭 Currently building **full‑stack web applications** with Django Rest Framework + React TS + TailwindCSS.
 - 📫 How to reach me: **albcvad@gmail.com**
 - 🌍 Available for **remote work** 
 
@@ -36,8 +36,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Desktop Development**  
-- Experience building desktop applications with **Visual Studio** (C# / .NET Framework)
